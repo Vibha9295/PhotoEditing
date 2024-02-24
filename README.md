@@ -2,7 +2,7 @@
 Welcome to the Photo Editing Dashboard project! This application provides a seamless flow for users to manage their profile photos, offering editing capabilities and easy image uploading.
 
 ## Features
-
+  MVVM architecure
 - **Dashboard (DashboardVC):**
   - View and manage your profile information.
   - Tap "Edit Profile" to navigate to the Photo Library.
